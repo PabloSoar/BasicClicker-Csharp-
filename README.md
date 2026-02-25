@@ -2,7 +2,7 @@
 I've created this clicker in a C# mini-course
 
 # Game and techs used
-To play, simply run ~dotnet run~;
+To play, simply run`~dotnet run~`;
 
 The controls are simple:
 - Holding the spacebar generates 10 points per second.
